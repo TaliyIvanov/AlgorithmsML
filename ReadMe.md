@@ -4,6 +4,10 @@ Here I am writing basic ML algorithms in Python.
 I think this method will help me to understand these algorithms better than I will just use them with fit/predict ^^)
 
 ---
+## Links
+- [Популярные алгоритмы машинного обучения](https://habr.com/ru/articles/804605/)
+- [Алгоритмы Машинного обучения с нуля](https://stepik.org/course/68260/syllabus)
+---
 
 ## Algorithms
 ### [Linear Algorithms](https://scikit-learn.org/stable/modules/linear_model.html)
