@@ -9,7 +9,7 @@ I think this method will help me to understand these algorithms better than I wi
 - [Алгоритмы Машинного обучения с нуля](https://stepik.org/course/68260/syllabus)
 ---
 
-## Algorithms
+## ML Algorithms
 ### [Linear Algorithms](https://scikit-learn.org/stable/modules/linear_model.html)
 - [Linear Regression](https://github.com/TaliyIvanov/AlgorithmsML/blob/main/01_LinearRegression.ipynb)
 - [Logistic Regression](https://github.com/TaliyIvanov/AlgorithmsML/blob/main/02_LogisticRegression.ipynb)
